@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou @Alan-Passos
+- 👋 Oi, eu sou Alan Passos
 - 👀 Estou interesado em Web Design
 - 🌱 Estou aprendendo HTML5 e CSS3
 - 💞️ I’m looking to collaborate on ...
